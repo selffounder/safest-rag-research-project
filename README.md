@@ -20,7 +20,7 @@ Most RAG algorithms suffer from critical security vulnerabilities:
 ### Why now?
 
 > Over 90% of modern companies are integrating AI agents into their workflows.  
-> Yet, most ignore security until it's too late. This research aims to fix that before it breaks you.
+> Yet, most ignore security until it's too late. This research aims to fill this gap.
 
 ---
 
